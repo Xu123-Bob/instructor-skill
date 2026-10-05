@@ -4,10 +4,11 @@
 
 # 🧑‍🏫 Instructor Skill — AI Agent Instructor
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Claude Skill](https://img.shields.io/badge/Claude-Skill-blue)](https://claude.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![Claude Skill](https://img.shields.io/badge/Claude-Skill-yellow)](https://claude.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Xu123-Bob/instructor-skill)
 [![AtomGit](https://img.shields.io/badge/AtomGit-Repository-blue)](https://atomgit.com/Com_Xu/instructor-skill)
+[![Agenis](https://img.shields.io/badge/Agenis-Skill-blue)](https://www.agensi.io/skills/instructor)
 
 <p align="center">
   <a href="README.cn.md">简体中文</a> |
@@ -64,4 +65,5 @@
 
 if the skill help to you please give me one star, thank you!
 - **GitHub**: [https://github.com/Xu123-Bob/instructor-skill](https://github.com/Xu123-Bob/instructor-skill)
-- **AtomGit**: [https://atomgit.com/your-username/instructor-skill](https://atomgit.com/Com_Xu/instructor-skill)
+- **AtomGit**: [https://atomgit.com/Com_Xu/instructor-skill](https://atomgit.com/Com_Xu/instructor-skill)
+- **agenis**: [https://www.agensi.io/skills/instructor](https://www.agensi.io/skills/instructor)
